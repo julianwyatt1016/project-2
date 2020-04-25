@@ -12,7 +12,7 @@ body {
 }
 
 .box {
-  background-color: crimson;
+  background-color: #444;
   color: #fff;
   border-radius: 5px;
   padding: 20px;
@@ -30,7 +30,7 @@ body {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  grid-template-rows: repeat(2, 100px);
+  grid-template-rows: repeat(2, auto);
 }
 
 .c {
@@ -40,8 +40,8 @@ body {
 
 button {
   font: bold 24px Arial;
-  background-color: white;
-  color: blue;
+  background-color: black;
+  color: lime;
   padding: 2px 6px 2px 6px;
   border-radius: 10px;
   border: 1px solid #CCCCCC;
@@ -58,5 +58,4 @@ button {
 input[type=text]{
   font-size: 18px;
   background-color: blue;
-  color: white;
 }

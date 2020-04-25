@@ -1,7 +1,13 @@
-# Project 2 Repo
+# CIT 281 Project 2 Learning Outcomes
 
-Repo start-state:
+- Web API protocol
+- Web dev
+- HTTP protocol
+- Web format as JSON
 
-1. README.md
-2. .gitignore
-3. gallery.html, gallery.css, gallery.js
+
+# CIT 281 Project 1 Learning Outcomes
+
+- Basic Unix Shell commands
+- Install and Configure Git using the Unix Shell
+- Github overview
